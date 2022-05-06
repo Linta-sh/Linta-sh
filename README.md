@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Linta-sh
 - 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning python
+- 🌱 I’m currently working in python
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me .linkedin
 
